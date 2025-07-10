@@ -1,13 +1,3 @@
-##############################################################################
-#
-# File: student.S
-#
-# Description:
-#   This file contains skeleton source code that students should complete so that it performs the computations required in the Machine Problem handout.
-#
-##############################################################################
-
-.text
 
 /*
  * Function: findHypSq
